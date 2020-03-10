@@ -44,6 +44,7 @@ footer{
     transform:translate(-50%, 0%);
     white-space:nowrap;
     margin-bottom:20px;
+    padding:20px;
 }
 
 
@@ -52,7 +53,8 @@ footer img{
     padding-right:20px;
     filter:grayscale(1);
     width:104px;
-    margin-bottom:30px;
+    margin-top: -50px;
+    margin-bottom: 0px;
 }
 
 
