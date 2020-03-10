@@ -37,4 +37,11 @@ body {
     font-size:4em;
 }
 
+footer{
+    position:fixed;
+    bottom:0px;
+    left:50vw;
+    transform:translate(-50%, 0%);
+}
+
 
