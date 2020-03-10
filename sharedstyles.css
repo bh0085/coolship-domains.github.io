@@ -43,8 +43,19 @@ footer{
     left:50vw;
     transform:translate(-50%, 0%);
     white-space:nowrap;
+    margin-bottom:20px;
+}
+
+footer{
+    vertical-align: text-bottom;
+}
+footer *{
+    vertical-align: text-bottom;
 }
 footer img{
+    padding-left:20px;
+    padding-right:20px;
+    filter:grayscale(1);
     width:64px;
 }
 
