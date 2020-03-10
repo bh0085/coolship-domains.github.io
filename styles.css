@@ -4,3 +4,8 @@
 .useful{
     font-weight:bold;
 }
+
+li{
+    line-height:1em;
+    list-style:none;
+}
