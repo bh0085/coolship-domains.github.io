@@ -46,17 +46,13 @@ footer{
     margin-bottom:20px;
 }
 
-footer{
-    vertical-align: text-bottom;
-}
-footer *{
-    vertical-align: text-bottom;
-}
+
 footer img{
     padding-left:20px;
     padding-right:20px;
     filter:grayscale(1);
     width:104px;
+    margin-bottom:30px;
 }
 
 
